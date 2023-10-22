@@ -1,0 +1,33 @@
+.body{
+  background: linear-gradient(90deg, rgb(0, 153, 255),rgb(31, 196, 113));
+  height: 100vh;
+}
+
+#display{
+  background-color: rgb(3, 3, 106);
+  border-radius: 10px 10px 0 0;
+  color:white;
+  text-align: end;
+  margin-top: 150px;
+}
+
+#buttons{
+  background-color: black;
+  border-radius: 0 0 10px 10px;
+}
+.btn{
+  border-radius: 0;
+}
+#lastfirst{
+  border-radius: 0 0 0 10px;
+}
+#lastlast{
+  border-radius: 0 0 10px 0;
+}
+
+/* git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/gurusai06102003/task-2.git
+git push -u origin main */
